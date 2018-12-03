@@ -29,7 +29,6 @@ public class CSVInsertToDB {
 
 	//×Ö·û±àÂë
 	private static final String CHARSETNAME = "UTF-8";
-    
 	
 	public static void main(String[] args) {
 		try {
